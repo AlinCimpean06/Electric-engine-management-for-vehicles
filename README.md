@@ -1,6 +1,6 @@
 # ElectricCarMotorJava
 App that is done in Java using Repositoryes,Services and Models with Spring Boot and Angular for frontend.
- - Client (id, company name, date of registration, number of total motors, total sum of motors)
+ - Client (id, company name,car name, date of registration, number of total motors, total sum of motors)
  - Car (id, name, motor power needed)
  - Motor (id, technology, price, power, engine consumption, compatible with(Tesla,BMW,VW,Renault), number of engines returned )
  - Transaction (id, company name, car id, motor id, price, number of pieces, date of transaction, total sum)
